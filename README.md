@@ -2,7 +2,9 @@
 
 Antenna Parameter Calculator
 
-Given a radiation power pattern, this code will find the following antenna parameters:
+Given a radiation power pattern, this code will find the following antenna parameters
+and display in Cartesian coordinates and Polar coordinates:
+
 1. Directivity Pattern
 2. Maximum Directivity
 3. Normalized Radiation Pattern 
