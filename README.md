@@ -12,4 +12,4 @@ and display in Cartesian coordinates and Polar coordinates:
 5. HPBW (Half-Power Beamwidth)
 6. FNBW (First-Null Beamwidth
 7. HPBE (Half-Power Beam Efficiency)
-8. FNBE (first-NUll Beam Effficiency)
+8. FNBE (First-Null Beam Effficiency)
